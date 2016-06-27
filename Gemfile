@@ -10,7 +10,8 @@ gem 'jbuilder',     '2.2.3'
 gem 'sdoc',         '0.4.0'
 gem 'bootstrap-sass', :git => 'https://github.com/twbs/bootstrap-sass.git', :branch => 'next'
 # Use SCSS for stylesheets 
-gem 'sass-rails', '~> 5.0' 
+gem 'sass-rails', '~> 5.0'
+gem 'font-awesome-sass', '4.2.0'
 gem 'autoprefixer-rails', group: :doc
 
 group :development, :test do
